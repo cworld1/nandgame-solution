@@ -7,7 +7,7 @@ Optimal solution for [Nandgame](https://www.nandgame.com/).
 ## Usage
 
 - Click settings on nandgame.
-- Click `Import` and paste text from `nandgame-data.json`.
+- Click `Import` and paste text for the chapter you need from `saves`.
 - Click `Import JSON` and enjoy.
 
 ## Thanks
