@@ -10,6 +10,15 @@ Optimal solution for [Nandgame](https://www.nandgame.com/).
 - Click `Import` and paste text for the chapter you need from `saves`.
 - Click `Import JSON` and enjoy.
 
+## Progress
+
+- [x] 1 Computer
+- [ ] 2 Assembler (Working...)
+- [ ] 3 Transistor level
+- [ ] 4 Functional completeness
+- [ ] 5 Bit-shifts
+- [ ] 6 Multitasking CPU
+
 ## Thanks
 
 - Introduce: https://setsideb.com/gamefinds-nandgame/
